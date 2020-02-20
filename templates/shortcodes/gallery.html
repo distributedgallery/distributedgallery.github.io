@@ -1,0 +1,5 @@
+<div class="gallery">
+  {% for asset in page.assets %} {% if asset is matching("[.](jpg|png)$") %}
+  <img src="{{ resize_image(path=asset, width=300, op="fit_width") }}" /> &ensp;
+  {% endif %} {% endfor %}
+</div>
