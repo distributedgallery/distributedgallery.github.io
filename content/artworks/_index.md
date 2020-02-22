@@ -6,13 +6,7 @@ title = "artworks"
 
 ## [sin market](#)
 
-The Distributed Gallery is a collective of thinkers and tinkers
-engaged in a critical approach toward art markets and artistic
-worlds. Disturbed by the overinterpretation of artistic intentions,
-the Distributed Gallery defends a more sensitive and authentic
-approach of the so-called contemporary art. Moreover, it wishes to
-replace in the center of the game the collective anonymous work in
-which the figure of the artist evaporates.
+coming soon
 
 ## [chaos machine](@/artworks/chaos/index.md)
 

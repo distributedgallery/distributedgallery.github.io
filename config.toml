@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://0x6467.github.io/"
+base_url = "https://distributedgallery.github.io/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -12,5 +12,5 @@ highlight_code = true
 build_search_index = false
 
 [extra]
-website_title = "0x77"
+website_title = "distributed gallery"
 # Put all your custom variables here

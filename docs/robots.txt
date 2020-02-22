@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://distributedgallery.github.io/sitemap.xml
