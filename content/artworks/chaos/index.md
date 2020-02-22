@@ -1,39 +1,25 @@
 +++
 title = "chaos machine"
+template = "artworks.html"
 +++
 
 # chaos machine
 
 {% materials() %}oak wood, steel, slate, glass | 52 x 52 x 192 cm{% end %}
 
-The Chaos Machine is the second blockchain-based artwork of the
-Distributed Gallery deepening the links between art and money. In one
-word, the Chaos Machine allows anyone to insert a banknote inside;
-once inserted, this note falls into the window space and is deposited
-on a heating resistor, In exchange? The machine will randomly play
-music and offer the user, via a smart contract, the possibility to
-integrate a song to the playlist. At the moment, this machine exists
-in two copies. One is display at Schinkel Pavillon the other at
-FullNode (Berlin). As soon as a ticket burns on one of these Chaos
-Machine, music is played on each one. So, if one hear music coming out
-of the Chaos Machine but no bills are burning, then it means that
-someone else is burning bills on the other Chaos Machine.
+The chaos machine is the second artwork of the distributed gallery, born during summer 2018. It exists in two copies connected to each other.
 
-Is it a crypto-jukebox? Or a sophisticated toaster ? In the special
-edition of the Chaos Machine, published on summer 2018 by R.U.S.T
-editions, Bernard Aspe, a french philosopher call it the Exterminating
-Angel, maybe because the Chaos Machine shows in a spectacular way,
-either the passage from a fiducial currency to a cryptographic
-currency, or even the emptiness inherent in any monetary abstraction.
+The chaos machine works as a crypto-jukebox that plays music whenever a banknote is burned. This music comes from a user-generated playlist, registered on the [Ethereum](https://ethereum.org/) blockchain, and distributively stored for aeternity through to [IPFS](https://ipfs.io/) technology.
 
-Unlike the Ready-Made Token, the Chaos Machine is a physical artwork,
-designed to be reproducible. In order to become a virus-like machine,
-the Distributed Gallery left the plans and the code available for
-anyone to built their own Chaos Machine.
+When a banknote is burned, a random track is selected into this playlist and shout in both of the connected machines. Thus, if someone hears music coming out of a machine where no banknote is burning, it means that someone has just been burning a banknote somewhere else. Additionnally, when a banknote is burned, a crypto-token is minted and a QR code printed that enables the user to add a new song into the chaos machine's playlist.
+
+The chaos machine has inaugurated the [Proof of Work](https://www.schinkelpavillon.de/exhibition/curated-by-simon-denny-in-dialogue-with-distributed-gallery-harm-van-den-dorpel-sarah-hamerman-and-sam-hart-kei-kreutler-and-aude-launay/) exhibition, curated by Simon Denny, at the Schinkel Pavillon in Berlin. The second copy has been exhibited at the [Kate Vass](https://www.katevassgalerie.com/news/perfect-amp-priceless-value-systems-on-the-blockchain) gallery, in Zurich, alongside the work of Ai WeiWei & Kevin Abosh. The chaos machine has eventually been exhibited in Paris during the oct. 2019 FIAC and sold on [auction](https://www.aguttes.com/lot/99453/10842901) at [Drouot](https://www.drouot.com/lots/10842901?actionParam=listLot=lot=99453).
+
+The chaos machine has also been the subject of an art book [prefaced](_book.pdf) by the french philosopher Bernard Aspe and readable below.
 
 ## links
 
-[upload your tracks](#) | [browse the GitHub repo](#) 
+[read the preface](_book.pdf) | [upload your tracks](https://chaos.distributedgallery.com/#/) | [browse the GitHub repo](https://github.com/distributedgallery/chaos-machine)
 
 ## gallery
 
@@ -41,7 +27,7 @@ anyone to built their own Chaos Machine.
 
 {{ gallery() }}
 
-<!-- 
+<!--
 <section class="gallery">
   <div class="row">
     <div class="column">

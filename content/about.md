@@ -4,11 +4,11 @@ title = "About"
 
 # about
 
-Implanted in Blockchain’s ecosystem, this open-ended collective is
-gonna keep tinkering with its machinations, a mixture of technological
-sophistications and cheerful provocations. The Distributed Gallery is
-not only a group of creation and reflection, but also a host and a
-nodal point to think about the mutations of any blockchain-based art.
+The distributed gallery is a collective of artists, craftmen and engineers established in the contemporary art worlds since 2017. They are mainly known for the creation of artworks based on distributed technologies such as blockchains.
+
+The evolution of arts have always been coupled to the evolution of technics. Today, technologies such as peer-to-peer networks and blockchains enable artists to create artworks whose operational, aesthetic, conceptual and political logic was previsouly out of reach: immutable and non-censorable data recording, large-scale money printing, content certification, creation of digital scarcity, etc...
+
+The distributed gallery makes a creative use of these technologies to experiment a redistribution of usually separated domains: art and venture, venture and life, life and art. Thus, it aims to counteract the overinterpretation of « artistic intentions » and advocate for a more authentic approach of the artwork: here, the exhibition is nothing more but a specific and situated experience of a protocol - <i>i.e.</i> a set of technical, economic and social rules overflowing the artwork as such. Our machines [and their exhibition] may have a limited life span: the protocols they open to will live forever.
 
 # press
 
@@ -21,7 +21,7 @@ On Dec. 16, the nascent market for what might be called cryptoart appeared to re
 {% end %}
 
 {% quote(source="Neural Magazine", url="http://neural.it/2018/09/neural-60-blockchain-the-trust-catalyst-extra-the-makers-bill-of-rights-by-garnet-hertz/") %}
-  Neural 60 Cover | Blockchain: The Trust Catalyst
+Neural 60 Cover | Blockchain: The Trust Catalyst
 {% end %}
 
 {% quote(source="Artnome", url="https://www.artnome.com/news/2018/1/6/untangling-the-richard-prince-blockchain-scam") %}
@@ -29,11 +29,11 @@ In mid-December, a website called The Distributed Gallery announced they were au
 {% end %}
 
 {% quote(source="Berlin Art Magazine", url="http://www.berlinartlink.com/2018/09/25/cryptocurrency-inspired-art-at-schinkel-pavillon") %}
-  The piece physically illustrates the current phenomena of
-  cryptocurrencies challenging, or burning, existing monetary systems
-  – exposing while also breaking the tension of this rampant
-  transition from physical to virtual transactions occurring
-  worldwide.
+The piece physically illustrates the current phenomena of
+cryptocurrencies challenging, or burning, existing monetary systems
+– exposing while also breaking the tension of this rampant
+transition from physical to virtual transactions occurring
+worldwide.
 {% end %}
 
 {% quote(source="Spike Art Magazine", url="https://www.spikeartmagazine.com/en/articles/i-wanted-protocol-identify-community") %}

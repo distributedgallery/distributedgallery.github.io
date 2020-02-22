@@ -1,3 +1,9 @@
-{% extends "index.html" %} {% block header %} {% include "back.html" %} {%
-endblock header %} {% block content %} {{ page.content | safe }} {% endblock
-content %}
+{% extends "index.html" %}
+{% block header %}
+  <header>
+    <a href="{{ get_url(path="@/_index.md") }}">« back to home</a>
+  </header>
+ {% endblock header %}
+ {% block content %}
+  {{ page.content | safe }}
+{% endblock content %}

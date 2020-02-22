@@ -1,0 +1,9 @@
+{% extends "index.html" %}
+{% block header %}
+  <header>
+    <a href="{{ get_url(path="@/artworks/_index.md") }}">« back to artworks</a>
+  </header>
+ {% endblock header %}
+ {% block content %}
+  {{ page.content | safe }}
+{% endblock content %}
