@@ -101,6 +101,11 @@ h1 + * {
   margin-top: 0;
 }
 
+h2 {
+  text-decoration: underline;
+  text-decoration-style: double;
+}
+
 h2,
 h3,
 h4,
@@ -108,7 +113,10 @@ h5,
 h6 {
   font-weight: normal;
   &:before {
-    content: "» ";
+    content: "»";
+    display: inline-block;
+    margin-right: 0.5em;
+    text-decoration: none;
   }
 }
 
@@ -148,8 +156,20 @@ header {
       li {
         display: flex;
         margin: 0 0 $spacing / 2 0;
+        align-items: center;
+
         &:last-child {
           margin-bottom: 0;
+        }
+
+        &.logo {
+          display: none;
+
+          pre {
+            font-size: 0.8px;
+            line-height: 1.5em;
+            margin: 0;
+          }
         }
       }
     }
@@ -174,6 +194,11 @@ header {
           margin-right: $spacing;
           &:last-child {
             margin-right: 0;
+          }
+
+          &.logo {
+            display: flex;
+            align-items: center;
           }
         }
       }
@@ -248,4 +273,7 @@ header {
 
 .materials {
   color: #808080;
+}
+
+@media only screen and (min-width: 30em) {
 }

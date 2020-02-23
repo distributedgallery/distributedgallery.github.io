@@ -15,11 +15,11 @@ When a banknote is burned, a random track is selected into this playlist and sho
 
 The chaos machine has inaugurated the [Proof of Work](https://www.schinkelpavillon.de/exhibition/curated-by-simon-denny-in-dialogue-with-distributed-gallery-harm-van-den-dorpel-sarah-hamerman-and-sam-hart-kei-kreutler-and-aude-launay/) exhibition, curated by Simon Denny, at the Schinkel Pavillon in Berlin. The second copy has been exhibited at the [Kate Vass](https://www.katevassgalerie.com/news/perfect-amp-priceless-value-systems-on-the-blockchain) gallery, in Zurich, alongside the work of Ai WeiWei & Kevin Abosh. The chaos machine has eventually been exhibited in Paris during the oct. 2019 FIAC and sold on [auction](https://www.aguttes.com/lot/99453/10842901) at [Drouot](https://www.drouot.com/lots/10842901?actionParam=listLot=lot=99453).
 
-The chaos machine has also been the subject of an art book [prefaced](_book.pdf) by the french philosopher Bernard Aspe and readable below.
+The chaos machine has also been the subject of an art book prefaced by the french philosopher Bernard Aspe and readable below.
 
 ## links
 
-[read the preface](_book.pdf) | [upload your tracks](https://chaos.distributedgallery.com/#/) | [browse the GitHub repo](https://github.com/distributedgallery/chaos-machine)
+[download the book](book.pdf) | [upload your tracks](https://chaos.distributedgallery.com/#/) | [browse the GitHub repo](https://github.com/distributedgallery/chaos-machine)
 
 ## gallery
 

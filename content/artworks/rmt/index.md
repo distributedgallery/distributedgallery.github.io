@@ -15,11 +15,11 @@ This hazardous mistmatch has drawn a lot of attention towards the ready-made tok
 
 ## links
 
-[ERC20 RMT on Etherscan](https://etherscan.io/token/0x067eefe485ec8659e0a4e7fe8b16f474653da244) | [GitHub repository](#)
+[ERC20 RMT on Etherscan](https://etherscan.io/token/0x067eefe485ec8659e0a4e7fe8b16f474653da244) | [browse the GitHub repo](https://github.com/distributedgallery/readymadetoken)
 
 ## caption of the Rare Digital Art Festival website
 
-<img src="_prince.png"/>
+<img src="prince.png"/>
 
 ## tweets
 

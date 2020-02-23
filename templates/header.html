@@ -1,10 +1,15 @@
 <header>
-  <h1 class="prompt">distributed gallery</h1>
+  <div>
+    <h1 class="prompt">distributed gallery</h1>
+  </div>
   <nav>
     <ul>
+      <li class="logo">{% include "shortcodes/logo.html" %}</li>
+
       <li><a href="{{ get_url(path="@/about.md") }}"">about</a></li>
       <li><a href="{{ get_url(path="@/artworks/_index.md") }}"">artworks</a></li>
       <li><a href="{{ get_url(path="@/contact.md") }}">contact</a></li>
+    
     </ul>
   </nav>
 </header>
