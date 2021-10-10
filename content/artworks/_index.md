@@ -8,6 +8,10 @@ title = "artworks"
 
 coming soon
 
+## [one arm crypto bandit](@/artworks/bandit/index.md)
+
+The one arm crypto bandit is the third artwork of the distributed gallery. Each arm action generates a couple of new Ethereum private keys. If it ever happens that any of these private keys is already in used, its fund become immediately available to the user. Like a bandit, this machine therefore attempts to steal currencies through private keys collision.
+
 ## [chaos machine](@/artworks/chaos/index.md)
 
 The chaos machine is the second artwork of the distributed gallery, born during summer 2018. It exists in two copies connected to each other through the Ethereum blockchain. When a banknote is burnt into one of those two copies, it prints a cryptocurrency and randomly shout music in both of the machines. This crypto-jukebox has inaugurated the « Proof of Work » exhibition, curated by Simon Denny, at the Schinkel Pavillon in Berlin. The second copy has been exhibited at the Kate Vass gallery, in Zurich, alongside the work of Ai WeiWei & Kevin Abosh. The chaos machine has also been exhibited in Paris during the oct. 2019 FIAC and sold on auction at Drouot.
