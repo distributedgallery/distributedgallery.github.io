@@ -21,7 +21,19 @@ In case a collision happens, the machine plays a unique song that you will proba
 
 The one arm crypto bandit is produced in two copies. If you are interested in exhibiting it in one of your events you can [contact us](@/contact.md).
 
-Otherwise, one copy is available for sale at 20ETH.
+## Exhibitions
+
+[ETHCC Paris / Maison de la mutualité / July 2022](https://twitter.com/EthCC/status/1549359306709127169)
+
+[P2P Festival / Ground Control / April 2022](https://twitter.com/DistribGallery/status/1522508601084022784)
+
+[DevConnect/ Beurs van Berlage / April 2022](https://twitter.com/EFDevconnect/status/1521977626948251651)
+
+[NFT Paris / Station F / January 22](https://twitter.com/_deafbeef/status/1484906580856479751)
+
+[CryptoArtRevolution / Pierre Cardin Museum / Dec 2021](https://twitter.com/PowerDada/status/1470075489628917765)
+
+Art Fair Dijon 10 octobre 2021
 
 ## gallery
 

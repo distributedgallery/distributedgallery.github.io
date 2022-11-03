@@ -17,6 +17,8 @@ The chaos machine has inaugurated the [Proof of Work](https://www.schinkelpavill
 
 The chaos machine has also been the subject of an art book prefaced by the french philosopher Bernard Aspe and readable below.
 
+One of the two Chaos machine was exhibited and sold at Phillips during [Ex-Machina: A History of Generative Art in July 2022](https://www.phillips.com/detail/the-distributed-gallery/UK090322/20)
+
 ## links
 
 [download the book](book.pdf) | [upload your tracks](https://chaos.distributedgallery.com/#/) | [browse the GitHub repo](https://github.com/distributedgallery/chaos-machine)
