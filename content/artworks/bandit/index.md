@@ -19,7 +19,7 @@ In case a collision happens, the machine plays a unique song that you will proba
 
 —
 
-The one arm crypto bandit is produced in two copies. If you are interested in exhibiting it in one of your events you can [contact us](@/contact.md).
+The one art crypto bandit is currently at sale on [Manifold](https://gallery.manifold.xyz/listing?listingId=6859) as an NFT certificate of ownership.
 
 ## Exhibitions
 
