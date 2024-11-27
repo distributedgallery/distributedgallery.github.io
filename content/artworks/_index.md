@@ -4,9 +4,13 @@ title = "artworks"
 
 # artworks
 
+## [sins market]
+
+Coming Soon.
+
 ## [[aside]](https://aside.distributedgallery.art/)
 
-[aside·eth] is a time-lock protocol for the contemporary digital art world, based on the collaboration of the distributed gallery, the verse marketplace, Georg Bak's curation and various digital artists. It consists of a protocol that enables the immobilization of any NFT on the Ethereum blockchain and conditions its release to external phenomena, whether natural (forest, fishery, earthquake, storm), astral (solar eruption, planetary transit), economic (inflation, deflation), financial (stock market), demographic, or social.</p>
+[aside] is a protocol that locks ERC721 tokens on Ethereum and links their liquidity to external events using oracles. It connects the liquidity of digital artworks to real-world phenomena, intertwining their economic lifecycle with global events. These events can be natural (forests, fisheries, earthquakes, storms), astronomical (solar flares, planetary transits), economic (inflation, deflation), financial (stock markets), demographic, or social.</p>
 
 ## [one arm crypto bandit](@/artworks/bandit/index.md)
 
