@@ -8,6 +8,12 @@ title = "artworks"
 
 Coming Soon.
 
+## <a href="https://foukenstein.lol" target="_blank" rel="noopener noreferrer">foukenstein</a>
+
+<a href="https://foukenstein.lol" target="_blank" rel="noopener noreferrer">foukenstein</a> is a conversational performance that gives voice to an artificial figure freely inspired by Michel Foucault. Starting from a written question, the dispositif produces a spoken response by combining text generation, the mobilization of theoretical references, short-term memory, and speech synthesis.
+
+It does not seek to simulate Foucault, nor to offer a faithful incarnation of him, but rather to construct a critical monster: an artificial, unstable, and ambivalent presence, capable of statements that are sometimes accurate, sometimes flawed. Through this synthetic voice, <a href="https://foukenstein.lol" target="_blank" rel="noopener noreferrer">foukenstein</a> questions how theoretical authority can be fabricated, replayed, and unsettled by a technical dispositif.
+
 ## [[aside]](https://aside.distributedgallery.art/)
 
 [aside] is a protocol that locks ERC721 tokens on Ethereum and links their liquidity to external events using oracles. It connects the liquidity of digital artworks to real-world phenomena, intertwining their economic lifecycle with global events. These events can be natural (forests, fisheries, earthquakes, storms), astronomical (solar flares, planetary transits), economic (inflation, deflation), financial (stock markets), demographic, or social.</p>
