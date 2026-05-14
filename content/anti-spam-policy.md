@@ -1,3 +1,7 @@
++++
+title = "Anti-Spam Policy"
++++
+
 # Distributed Gallery Anti-Spam Policy
 
 Distributed Gallery does not permit the advertising of its websites, projects, artworks, or domain names through unsolicited bulk messages.
